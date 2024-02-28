@@ -110,16 +110,16 @@ samples=gibbs_sampler.sample(size=num_samples)
 query_variable='Burglary'
 query_result= samples[query_variable].value_counts(normalize=True)
 
-# print the approximate probabilities
-print("\n Approximate Probabilities of {}".format(query_variable))
-print(query_result)
+         
 ```
 
 
 
 
 ## Output:
-<Show your results>
+![alt text](image-2.png)
+![alt text](image-1.png)
+![alt text](image.png)
 
 ## Result:
 Thus, Gibb's Sampling( Approximate Inference method) is succuessfully implemented using python.

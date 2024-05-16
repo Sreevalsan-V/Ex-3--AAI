@@ -1,7 +1,7 @@
 <H3>NAME: SREEVALSAN V</H3>
 <H3>REGISTER NO:212223240158</H3>
 <H3>EX. NO.3</H3>
-<H3>DATE:28-02-2024</H3>
+<H3>DATE:6-03-2024</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
